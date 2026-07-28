@@ -1,4 +1,4 @@
-# \# Spotify Power BI Dashboard
+# \# 🎧 Spotify Power BI Dashboard
 
 # 
 
@@ -6,7 +6,23 @@
 
 # 
 
-# \## Project Goals
+# \---
+
+# 
+
+# 📊 Dashboard Preview
+
+# 
+
+# > 🚧 Screenshot coming soon 
+
+# 
+
+# \---
+
+# 
+
+# 🚀 Project Goals
 
 # 
 
@@ -19,6 +35,32 @@
 # \- Design an interactive Power BI dashboard
 
 # \- Showcase Power BI skills for data analyst roles
+
+# 
+
+# \---
+
+# 
+
+# 🛠️ Tools
+
+# 
+
+# \- Power BI
+
+# \- Power Query
+
+# \- DAX
+
+# \- Git \& GitHub
+
+# 
+
+# \---
+
+# 
+
+# \## Status
 
 # 
 

@@ -18,7 +18,8 @@ A Business Intelligence dashboard built in Power BI using my personal Spotify st
 - Power BI
 - Power Query
 - DAX
-- - Git & GitHub
+- Windows PowerShell
+- Git & GitHub
 
 ## Status
 

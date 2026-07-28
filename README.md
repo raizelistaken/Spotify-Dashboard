@@ -1,30 +1,30 @@
 # \# 🎧 Spotify Power BI Dashboard
 
-# 
+
 
 # A Business Intelligence dashboard built in Power BI using my personal Spotify streaming history.
 
-# 
 
-# \---
 
-# 
+ \---
+
+
 
 # 📊 Dashboard Preview
 
-# 
+
 
 # > 🚧 Screenshot coming soon 
 
-# 
 
-# \---
 
-# 
+\---
+
+
 
 # 🚀 Project Goals
 
-# 
+
 
 # \- Practice Power Query transformations
 
@@ -36,15 +36,15 @@
 
 # \- Showcase Power BI skills for data analyst roles
 
-# 
 
-# \---
 
-# 
+\---
+
+
 
 # 🛠️ Tools
 
-# 
+
 
 # \- Power BI
 
@@ -54,15 +54,15 @@
 
 # \- Git \& GitHub
 
-# 
 
-# \---
 
-# 
+ \---
+
+
 
 # \## Status
 
-# 
+
 
 # 🚧 Work in Progress
 
